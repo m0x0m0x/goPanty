@@ -1,9 +1,9 @@
 #!/bin/fish
-/workspaces/gl-pdtmcharm1/kh/pnp.fish
-/workspaces/gl-pdtmcharm1/kh/fixrs.fish
-/workspaces/gl-pdtmcharm1/kh/st.sh
-/workspaces/gl-pdtmcharm1/kh/aryt.fish
-/workspaces/gl-pdtmcharm1/kh/tgpt.fish
-/workspaces/gl-pdtmcharm1/kh/bun.fish
+/workspaces/gopanty/kh/pnp.fish
+/workspaces/gopanty/kh/fixrs.fish
+/workspaces/gopanty/kh/st.sh
+/workspaces/gopanty/kh/aryt.fish
+/workspaces/gopanty/kh/tgpt.fish
+/workspaces/gopanty/kh/bun.fish
 
 
