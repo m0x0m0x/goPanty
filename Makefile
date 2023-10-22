@@ -13,7 +13,7 @@ endif
     
 all: build
 build:
-	$(GOBUILD) $(GOFLAGS) -ldflags '$(LDFLAGS)' -o "pdtm" cmd/pdtm/pdtm.go
+	$(GOBUILD) $(GOFLAGS) -ldflags '$(LDFLAGS)' -o "panty" main.go
 test:
 	$(GOTEST) $(GOFLAGS) ./...
 tidy:
